@@ -50,7 +50,7 @@ vault_download_url: "https://releases.hashicorp.com/vault/{{ vault_version }}/va
 
 # Checksums
 istioctl_checksum: fd703063c540b8c0ab943f478c05ab257d88ae27224c746a27d0526ddbf7c370
-kubeadm_checksum: f51a109c06d520e7f1189b9fbdb483f4cb7dc80b112cba21ec47a76aecbf9ddd
+kubeadm_checksum: cf3598dd96a4bb01026b2524b55a09d343e73790035ae3d7e35b5fbd8b1597ec
 vault_binary_checksum: 3c4d70ba71619a43229e65c67830e30e050eab7a81ac6b28325ff707e5914188
 
 # Containers
